@@ -1,0 +1,4 @@
+[2018-09-07 12:07:08.114] [renderer1] [info] no standard startup: not the explorer viewlet
+[2018-09-07 12:07:32.650] [renderer1] [info] no standard startup: not just one text editor
+[2018-09-07 12:07:43.855] [renderer1] [error] doSave(1) - exit - resulted in a save error: Error: Permission denied writing to file (file:///home/ch/sftwr/js1/app.js) {"$mid":1,"fsPath":"/home/ch/sftwr/js1/app.js","external":"file:///home/ch/sftwr/js1/app.js","path":"/home/ch/sftwr/js1/app.js","scheme":"file"}
+[2018-09-07 12:07:45.603] [renderer1] [error] doSave(2) - exit - resulted in a save error: Error: Permission denied writing to file (file:///home/ch/sftwr/js1/app.js) {"$mid":1,"fsPath":"/home/ch/sftwr/js1/app.js","external":"file:///home/ch/sftwr/js1/app.js","path":"/home/ch/sftwr/js1/app.js","scheme":"file"}

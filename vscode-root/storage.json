@@ -455,5 +455,25 @@
             "file:///home/ch/sftwr/js1"
         ],
         "files2": []
+    },
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "folderUri": {
+                "$mid": 1,
+                "fsPath": "/home/ch/sftwr/js1",
+                "external": "file:///home/ch/sftwr/js1",
+                "path": "/home/ch/sftwr/js1",
+                "scheme": "file"
+            },
+            "backupPath": "/home/ch/sftwr/js1/vscode-root/Backups/22bacdc26e7c7ab1704b33b41e451f80",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 27,
+                "width": 1366,
+                "height": 713
+            }
+        }
     }
 }
